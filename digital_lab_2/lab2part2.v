@@ -3,17 +3,18 @@
 // Laboratory: 	Lab 2 - Part 2 - Digital Logic
 // Description:	Using 2x 7-Seg displays, output 1x 4-bit number 
 //						combination from 4x switches.
-// Board:			DE1-SoC, Rev F, 5CSEMA5F31C6
+// Board:		DE1-SoC, Rev F, 5CSEMA5F31C6
 //
 //
-// By:				K. Walsh
-// Date:				April 15, 2017
+// By:			K. Walsh
+// Date:		April 15, 2017
 //
 
 // ============================================================
 // Top Level Module
 module lab2part2 (SW, LEDR, HEX0, HEX1);
 	input [3:0] SW;
+	input [5:0] SW2;
 	output [3:0] LEDR;
 	output [6:0] HEX0, HEX1;
 	
