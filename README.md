@@ -4,4 +4,4 @@ Lab exercises are currently being stored a the [FPGA Academy](https://fpgacademy
 
 Board used is the [DE1-SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836).
 
-TODO(TheNageek): still need to finish Labs 4-11.
+TODO(TheNageek): still need to finish Labs 4-11 and create videos.
