@@ -2,15 +2,15 @@
 // ============================================================
 // Laboratory: 	Lab 3 - Part 4 - Digital Logic
 // Description:	Explore three different types of D-Flip Flops (DFF); 
-//						gated DFF, edge triggered DFF, and negative edge triggered 
-//						DFF. Further utilize behavioral style (e.g. "always @") 
-//						Verilog as opposed to previous dataflow style (e.g "assign")
+//				gated DFF, edge triggered DFF, and negative edge triggered 
+//				DFF. Further utilize behavioral style (e.g. "always @") 
+//				Verilog as opposed to previous dataflow style (e.g "assign")
 //					
-//						We won't implement the design on the DE1 board, instead 
-//						we'll verify the design via simulation. 
+//				We won't implement the design on the DE1 board, instead 
+//				we'll verify the design via simulation. 
 //
-// By:				K. Walsh
-// Date:				September 18, 2016
+// By:			K. Walsh
+// Date:		September 18, 2016
 //
 
 // ============================================================

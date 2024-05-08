@@ -2,15 +2,15 @@
 // ============================================================
 // Laboratory: 	Lab 3 - Part 2 - Digital Logic
 // Description:	Explore the D Latch at the gate level. Preserve 
-//						internal signals (qa,qb,r_g,s_g) as separate logic 
-//						elements so that they may be explored/understood.
-//						Utilize the Quartus compiler directive "keep".
+//				internal signals (qa,qb,r_g,s_g) as separate logic 
+//				elements so that they may be explored/understood.
+//				Utilize the Quartus compiler directive "keep".
 //					
-//						Instantiate the D-latch and utilize switches and
-//						LEDs to view the Q output.
+//				Instantiate the D-latch and utilize switches and
+//				LEDs to view the Q output.
 //
-// By:				K. Walsh
-// Date:				September 18, 2016
+// By:			K. Walsh
+// Date:		September 18, 2016
 //
 
 // ============================================================
