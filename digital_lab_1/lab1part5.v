@@ -1,9 +1,9 @@
 // ============================================================
 // Laboratory: 	Lab 1 - Part 5 - Digital Logic
 // Description:	3x 7-Seg Displays; multiplex to 3x displays 
-//						to output different combinations.
-// By:				K. Walsh
-// Date:				August 23, 2016
+//				to output different combinations.
+// By:			K. Walsh
+// Date:		August 23, 2016
 //
 
 // Top Level Module

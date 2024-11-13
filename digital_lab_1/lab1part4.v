@@ -2,9 +2,9 @@
 // ============================================================
 // Laboratory: 	Lab 1 - Part 4 - Digital Logic
 // Description:	Seven Segment Display, display 3 different outputs
-//						from two select switch inputs.
-// By:				K. walsh
-// Date:				January 29, 2017
+//				from two select switch inputs.
+// By:			K. walsh
+// Date:	 	January 29, 2017
 //
 
 // SW  1  0    Displayed characters

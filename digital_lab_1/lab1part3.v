@@ -1,7 +1,7 @@
 //
 // ============================================================
-// Laboratory: 		Lab 1 - Part 3 - Digital Logic
-// Description:		2 Select Multiplexer
+// Laboratory: 	Lab 1 - Part 3 - Digital Logic
+// Description:	2 Select Multiplexer
 // By:			K. walsh
 // Date:		January 29, 2017
 //
