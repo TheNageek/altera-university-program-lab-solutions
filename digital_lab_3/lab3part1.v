@@ -24,9 +24,9 @@ module part1 (
 	//Qa	= output
 	//Qb	= output compliment
 	
-	// Note, "synthesis keep" is a Quartus "compiler directive" that will preserve 
-	// the interal wiring. Despite being commented out, the compiler will
-	// still recognize this and apply it.
+	// Note, "synthesis keep" is a Quartus "compiler directive" that will 
+	// preserve the interal wiring. Despite being commented out, the compiler 
+	// will still recognize this and apply it.
 	
 	assign R_g = R & Clk;
 	assign S_g = S & Clk;
