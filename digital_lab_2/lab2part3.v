@@ -5,7 +5,6 @@
 // ripple-carry adder circuit w/ carry in and carry out.
 // Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
-
 // ============================================================
 // Top Level Module
 module lab2part3 (SW, LEDR);

@@ -3,7 +3,6 @@
 // Laboratory: Lab 1 - Part 2 - Digital Logic
 // Description: Switches, Lights and Multiplexers
 //
-
 // Top Level Module
 module lab1part1 (
 	input [9:0] SW,

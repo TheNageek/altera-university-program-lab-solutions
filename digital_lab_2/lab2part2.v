@@ -5,7 +5,6 @@
 // combination from 4x switches.
 // Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
-
 // ============================================================
 // Top Level Module
 module lab2part2 (SW, LEDR, HEX0, HEX1);

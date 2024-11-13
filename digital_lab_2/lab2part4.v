@@ -5,7 +5,6 @@
 // and then output onto HEX 7-segment displays.
 // Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
-
 // ============================================================
 // Top Level Module
 module lab2part4 (SW, LEDR, HEX0, HEX1, HEX3, HEX5);

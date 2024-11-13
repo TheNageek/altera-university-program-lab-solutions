@@ -3,7 +3,6 @@
 // Description:	3x 7-Seg Displays; multiplex to 3x displays 
 // to output different combinations.
 //
-
 // Top Level Module
 module lab1part5 (SW, LEDR, HEX0, HEX1, HEX2);
 	input [9:0] SW;

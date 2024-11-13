@@ -6,7 +6,6 @@
 // control one 7-seg and 4x switchs control another.
 // The idea using BcDs, 4'bxxxx -> 1'd
 //
-
 // ============================================================
 // Top Level Module
 module lab2part1 (SW, LEDR, HEX0, HEX1);

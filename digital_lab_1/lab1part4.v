@@ -4,7 +4,6 @@
 // Description:	Seven Segment Display, display 3 different outputs
 // from two select switch inputs.
 //
-
 // SW  1  0    Displayed characters
 //     0  0    d 
 //     0  1    E

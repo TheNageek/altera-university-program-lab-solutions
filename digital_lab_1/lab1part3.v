@@ -3,7 +3,6 @@
 // Laboratory: 	Lab 1 - Part 3 - Digital Logic
 // Description:	2 Select Multiplexer
 //
-
 // Top Level Module
 module lab1part3 (
 	input [9:0] SW,
