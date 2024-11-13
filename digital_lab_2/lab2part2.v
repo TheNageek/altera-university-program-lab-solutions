@@ -3,6 +3,7 @@
 // Laboratory: 	Lab 2 - Part 2 - Digital Logic
 // Description:	Using 2x 7-Seg displays, output 1x 4-bit number 
 // combination from 4x switches.
+//
 // Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
 // ============================================================

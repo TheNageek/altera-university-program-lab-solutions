@@ -3,6 +3,7 @@
 // Laboratory: 	Lab 2 - Part 3 - Digital Logic
 // Description:	Implementation of full adder (FA) into a 4-bit 
 // ripple-carry adder circuit w/ carry in and carry out.
+// 
 // Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
 // ============================================================

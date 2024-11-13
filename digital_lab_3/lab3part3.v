@@ -8,6 +8,8 @@
 // Instantiate the flip-flop and utilize switches and
 // LEDs to view the Q output.
 //
+// Board: DE1-SoC, Rev F, 5CSEMA5F31C6
+//
 // ============================================================
 //
 // Top Level Module

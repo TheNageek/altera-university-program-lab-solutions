@@ -5,6 +5,8 @@
 // internal signals (qa,qb,r_g,s_g) as separate logic 
 // elements so that they may be explored/understood.
 //
+// Board: DE1-SoC, Rev F, 5CSEMA5F31C6
+//
 // ============================================================
 //
 // Top Level Module

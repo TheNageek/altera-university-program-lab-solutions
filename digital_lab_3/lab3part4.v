@@ -9,6 +9,8 @@
 // We won't implement the design on the DE1 board, instead 
 // we'll verify the design via simulation. 
 //
+// Board: DE1-SoC, Rev F, 5CSEMA5F31C6
+//
 // ============================================================
 //
 // Top Level Module
