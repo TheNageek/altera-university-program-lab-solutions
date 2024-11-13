@@ -1,9 +1,7 @@
 //
 // ============================================================
-// Laboratory:  Lab 1 - Part 2 - Digital Logic
+// Laboratory: Lab 1 - Part 2 - Digital Logic
 // Description: Switches, Lights and Multiplexers
-// By:		    K. Walsh
-// Date:	    January 29, 2017
 //
 
 // Top Level Module

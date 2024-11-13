@@ -2,11 +2,8 @@
 // ============================================================
 // Laboratory:  Lab 2 - Part 4 - Digital Logic
 // Description:	Implementation of BCD decimal inputs to be summed 
-//				and then output onto HEX 7-segment displays.
-// Board:		DE1-SoC, Rev F, 5CSEMA5F31C6
-//
-// By:			K. Walsh
-// Date:		August 10, 2017
+// and then output onto HEX 7-segment displays.
+// Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
 
 // ============================================================

@@ -2,19 +2,13 @@
 // ============================================================
 // Laboratory: 	Lab 3 - Part 3 - Digital Logic
 // Description:	Explore the master slave D flip-flop, utilize previous 
-//				D-latch modules to create this system.  View schematic, 
-//				technology map.  Simulate prior to implementation.
+// D-latch modules to create this system.  View schematic, 
+// technology map.  Simulate prior to implementation.
 //					
-//				Instantiate the flip-flop and utilize switches and
-//				LEDs to view the Q output.
+// Instantiate the flip-flop and utilize switches and
+// LEDs to view the Q output.
 //
-// By:			K. Walsh
-// Date:		September 18, 2016
-//
-
 // ============================================================
-//
-//
 //
 // Top Level Module
 module part3 (

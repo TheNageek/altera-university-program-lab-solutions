@@ -2,15 +2,10 @@
 // ============================================================
 // Laboratory: 	Lab 3 - Part 1 - Digital Logic
 // Description:	Explore the SR Latch at the gate level. Preserve 
-//				internal signals (qa,qb,r_g,s_g) as separate logic 
-//				elements so that they may be explored/understood.
-// By:			K. Walsh
-// Date:		September 18, 2016
+// internal signals (qa,qb,r_g,s_g) as separate logic 
+// elements so that they may be explored/understood.
 //
-
 // ============================================================
-//
-//
 //
 // Top Level Module
 module part1 (

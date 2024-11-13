@@ -2,28 +2,23 @@
 // ============================================================
 // Laboratory: 	Lab 2 - Part 5 - Digital Logic
 // Description:	Implementation of BCD adder similar to part 4 
-//				but instead of as robust of a design, utilize
-//				more of the Verilog compiler to do the work.
-//				The psuedo-code below is what we'll mirror.
+// but instead of as robust of a design, utilize
+// more of the Verilog compiler to do the work.
+// The psuedo-code below is what we'll mirror.
 //
-// Board:		DE1-SoC, Rev F, 5CSEMA5F31C6
+// Board: DE1-SoC, Rev F, 5CSEMA5F31C6
 //
-//						To = A+B+c0
-//						if (T0 > 9) then
-//							Z0 = 10;
-//							c1 = 1;
-//						else
-//							Z0 = 0;
-//							c1 = 0;
-//						end if
-//						S0 = T0 - Z0
-//						S1 = c1
+//	To = A+B+c0
+//		if (T0 > 9) then
+//			Z0 = 10;
+//			c1 = 1;
+//		else
+//			Z0 = 0;
+//			c1 = 0;
+//		end if
+//		S0 = T0 - Z0
+//		S1 = c1
 //
-//
-// By:			K. Walsh
-// Date:		August 11, 2017
-//
-
 // =======================================
 //
 // Top Level Module
